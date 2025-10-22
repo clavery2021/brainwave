@@ -1,4 +1,4 @@
-🧠 Brainwave — Modern AI Chat Application Landing Page
+🧠 ### Brainwave — Modern AI Chat Application Landing Page
 
 A fully responsive, modern landing page for an AI chatbot application built with React and Tailwind CSS.
 This project showcases contemporary UI/UX design principles with smooth animations, parallax effects, and a sleek dark theme.
